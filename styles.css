@@ -29,6 +29,9 @@
   border-radius: 20px;
   border: 2px dashed #bbb5ff;
   background: #f7f8ff;
+  /* center and fit image within container */
+  background-position: center;
+  background-size: cover;
 }
 
 #img-view img {
